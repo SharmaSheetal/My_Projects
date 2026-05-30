@@ -1,0 +1,30 @@
+{
+    "phase_1": [
+        "Someone entered the lounge after 11 PM. The building's camera system knows who.",
+        "Julian's drink was not what it appeared to be. Check what was left near the drink station.",
+        "Start with the people who were physically in the lounge that night.",
+        "The sticky note is not what it looks like. Julian wrote it himself.",
+        "Ask Hayes what the crime scene actually tells him. He's holding something back."
+    ],
+    "phase_2": [
+        "Martha's reel shows more than she admits. Watch what she moved.",
+        "Victor's phone contains a message that explains everything about the drink.",
+        "The inhaler was not where Julian expected it to be. Who moved it?",
+        "Ask Dr. Collins what he warned Julian about at 12:20 AM.",
+        "Rose's logistics checklist shows she changed Julian's setup. Ask her about the VIP kit."
+    ],
+    "phase_3": [
+        "The trophy is not just a trophy. Look at it closely.",
+        "Dr. Collins needs the physical evidence before he will tell you the full story. Bring him something.",
+        "Connect the drink swap, the missing inhaler, and the broken trophy. They are not three separate problems.",
+        "Julian was planning a dramatic moment. The sticky note was his own script.",
+        "Ask Dr. Collins specifically about airway obstruction."
+    ],
+    "phase_4": [
+        "This was not a murder in the traditional sense. Multiple people made small, stupid decisions independently.",
+        "Julian staged the collapse. Everyone else accidentally made it real.",
+        "The best ending requires you to explain what each of the three people did and how they connected.",
+        "Victor, Martha, and Rose each did something petty. None of them planned to kill anyone.",
+        "The final answer involves a keycap, a missing inhaler, and 400mg of caffeine."
+    ]
+}

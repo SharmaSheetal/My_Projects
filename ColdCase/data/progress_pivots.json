@@ -1,0 +1,28 @@
+{
+    "pivot_moments": [
+        {
+            "id": "JULIAN_PLANNED_COLLAPSE",
+            "description": "Triggered when Hayes responds to a question about the sticky note and mentions it may not be a murder threat.",
+            "detection_condition": "Player asked Hayes about the sticky note AND Hayes stress > 0.4",
+            "points": 10
+        },
+        {
+            "id": "KEYCAP_AIRWAY_CONNECTION",
+            "description": "Triggered when Dr. Collins confirms airway obstruction after the keycap trophy evidence is submitted.",
+            "detection_condition": "Evidence 'evidence_keycap_trophy' is submitted AND Collins has been questioned this session.",
+            "points": 10
+        },
+        {
+            "id": "DRINK_SWAP_CONFIRMED",
+            "description": "Triggered when Victor's text message evidence is submitted.",
+            "detection_condition": "Evidence 'evidence_victor_text' is submitted.",
+            "points": 10
+        },
+        {
+            "id": "MARTHA_REEL_CONFIRMED",
+            "description": "Triggered when Martha's reel evidence is submitted.",
+            "detection_condition": "Evidence 'evidence_martha_reel' is submitted.",
+            "points": 10
+        }
+    ]
+}

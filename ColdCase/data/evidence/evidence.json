@@ -1,0 +1,179 @@
+{
+    "evidence": [
+        {
+            "id": "evidence_sticky_note",
+            "name": "Sticky Note",
+            "display_name": "Sticky Note — THIS DEMO WILL KILL",
+            "description": "A handwritten sticky note found beside the body reading THIS DEMO WILL KILL. Everyone initially assumes it is a murder threat.",
+            "unlocks_at_phase": 1,
+            "affects_characters": [
+                "hayes",
+                "dr_collins"
+            ],
+            "contradiction_ids": [
+                "C7"
+            ],
+            "what_it_proves": "Julian wrote this note himself. It refers to a demo presentation he was planning to dramatically expose, not a threat against him.",
+            "initial_interpretation": "Murder threat left by the killer.",
+            "true_interpretation": "Julian's own dramatic note about his planned stunt reveal."
+        },
+        {
+            "id": "evidence_camera_timestamp",
+            "name": "Lounge Camera Timestamp",
+            "display_name": "Lounge Camera Timestamp Log",
+            "description": "A hallway camera snapshot or timestamp log showing who entered the judges lounge and when.",
+            "unlocks_at_phase": 1,
+            "affects_characters": [
+                "hayes",
+                "victor"
+            ],
+            "contradiction_ids": [
+                "C1"
+            ],
+            "what_it_proves": "Victor entered the judges lounge at 12:05 AM despite claiming he never went in.",
+            "initial_interpretation": "Standard security footage.",
+            "true_interpretation": "Directly contradicts Victor's alibi."
+        },
+        {
+            "id": "evidence_scoring_sheet",
+            "name": "Judge Scoring Sheet",
+            "display_name": "Judge Scoring Sheet with Angry Notes",
+            "description": "Julian's scoring sheet covered in harsh comments, circled scores, and aggressive annotations about multiple teams.",
+            "unlocks_at_phase": 1,
+            "affects_characters": [
+                "victor",
+                "martha",
+                "hayes",
+                "rose"
+            ],
+            "contradiction_ids": [],
+            "what_it_proves": "Julian had active conflicts with multiple teams and was preparing to make judging a public spectacle. Establishes motive across the full cast.",
+            "initial_interpretation": "Evidence of Julian being difficult.",
+            "true_interpretation": "Confirms Julian was building toward a dramatic confrontation of his own design."
+        },
+        {
+            "id": "evidence_energy_drink_can",
+            "name": "Sponsor Energy Drink Can",
+            "display_name": "Sponsor Energy Drink Can",
+            "description": "An empty ultra-caffeinated sponsor energy drink can found near the drink station or in the trash. This was not Julian's usual drink.",
+            "unlocks_at_phase": 2,
+            "affects_characters": [
+                "victor",
+                "dr_collins",
+                "hayes"
+            ],
+            "contradiction_ids": [
+                "C2",
+                "C6"
+            ],
+            "what_it_proves": "Julian consumed a heavily caffeinated sponsor beverage rather than his normal cold brew. Directly challenges Victor's denial and the simple poison theory.",
+            "initial_interpretation": "Just a drink can.",
+            "true_interpretation": "Victor's swap caused Julian to consume far more caffeine than normal, contributing directly to the chain of events."
+        },
+        {
+            "id": "evidence_martha_reel",
+            "name": "Martha's Behind-the-Scenes Reel",
+            "display_name": "Martha's Behind-the-Scenes Reel",
+            "description": "A short phone video clip Martha filmed for her social media coverage of the hackathon. Shows the lounge before the collapse.",
+            "unlocks_at_phase": 2,
+            "affects_characters": [
+                "martha",
+                "hayes"
+            ],
+            "contradiction_ids": [
+                "C3",
+                "C4"
+            ],
+            "what_it_proves": "Martha rearranged objects in the lounge and was not a passive observer. Also shows she was distracted and moving around during the critical window, contradicting her claim of clear observation.",
+            "initial_interpretation": "Standard behind-the-scenes content.",
+            "true_interpretation": "Directly contradicts both of Martha's main claims."
+        },
+        {
+            "id": "evidence_missing_inhaler",
+            "name": "Missing Inhaler",
+            "display_name": "Julian's Inhaler (Found Displaced)",
+            "description": "Julian's inhaler found in an unexpected location far from where he would have expected it to be during an emergency.",
+            "unlocks_at_phase": 2,
+            "affects_characters": [
+                "martha",
+                "dr_collins",
+                "hayes"
+            ],
+            "contradiction_ids": [
+                "C6"
+            ],
+            "what_it_proves": "Emergency respiratory aid was not where Julian expected it during the breathing crisis. Connected to Martha's rearrangement and to the chain of death.",
+            "initial_interpretation": "Misplaced item.",
+            "true_interpretation": "Martha's rearrangement removed a critical safety item from Julian's reach at the worst possible moment."
+        },
+        {
+            "id": "evidence_victor_text",
+            "name": "Victor's Text Message",
+            "display_name": "Victor's Text Message",
+            "description": "A recovered text message from Victor reading something like: Let him survive finals on 400mg caffeine.",
+            "unlocks_at_phase": 2,
+            "affects_characters": [
+                "victor",
+                "hayes"
+            ],
+            "contradiction_ids": [
+                "C2"
+            ],
+            "what_it_proves": "Victor intentionally tampered with Julian's drink. He documented his own intent. Directly and definitively contradicts his denial.",
+            "initial_interpretation": "Just a snarky message.",
+            "true_interpretation": "Proof of deliberate sabotage in Victor's own words."
+        },
+        {
+            "id": "evidence_keycap_trophy",
+            "name": "Broken Keyboard Keycap Trophy",
+            "display_name": "Novelty Trophy with Missing Keycap",
+            "description": "The Most Disruptive Hack novelty keyboard trophy found with a detachable keycap missing from its surface.",
+            "unlocks_at_phase": 3,
+            "affects_characters": [
+                "dr_collins",
+                "hayes"
+            ],
+            "contradiction_ids": [
+                "C6"
+            ],
+            "what_it_proves": "Airway obstruction likely came from the loose keycap Julian had been handling while rehearsing his stunt speech. This is the piece of evidence that unlocks Dr. Collins confirming the full chain of death.",
+            "initial_interpretation": "Damaged prop.",
+            "true_interpretation": "The physical mechanism of Julian's airway obstruction. When combined with the energy drink can, Dr. Collins will confirm the complete chain."
+        },
+        {
+            "id": "evidence_vip_kit_checklist",
+            "name": "Organizer Checklist",
+            "display_name": "Organizer Checklist Showing VIP Kit Swap",
+            "description": "A logistics checklist or internal text note from the organizer team showing that Julian's VIP judge kit was replaced with a standard participant bag.",
+            "unlocks_at_phase": 3,
+            "affects_characters": [
+                "rose",
+                "hayes"
+            ],
+            "contradiction_ids": [
+                "C5"
+            ],
+            "what_it_proves": "Rose altered Julian's personal setup and has been hiding her involvement. His preferred medications and snacks were not available when he needed them.",
+            "initial_interpretation": "Routine logistics document.",
+            "true_interpretation": "Directly contradicts Rose's claim that she only handled event logistics."
+        },
+        {
+            "id": "evidence_julian_message",
+            "name": "Julian's Message",
+            "display_name": "Julian's Message — Tonight's Reveal Will Be Unforgettable",
+            "description": "A recovered text, Slack message, or note from Julian sent at 10:50 PM reading something like: Tonight's reveal will be unforgettable.",
+            "unlocks_at_phase": 3,
+            "affects_characters": [
+                "hayes",
+                "dr_collins",
+                "rose"
+            ],
+            "contradiction_ids": [
+                "C7"
+            ],
+            "what_it_proves": "Julian was planning an attention-seeking stunt. The sticky note was not a murder threat — it was his own dramatic note about the reveal he was orchestrating.",
+            "initial_interpretation": "Ominous pre-incident message.",
+            "true_interpretation": "Proof that Julian was the architect of his own dramatic moment, which accidentally became real."
+        }
+    ]
+}

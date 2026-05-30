@@ -1,0 +1,54 @@
+{
+    "flavor_text": {
+        "0-25": {
+            "label": "Cold Trail",
+            "strings": [
+                "The lounge holds its secrets tightly. Start with the people who were there.",
+                "Someone in this building is lying about something small that matters enormously.",
+                "A dead professor, five exhausted hackers, and a locked room. Time to wake them up.",
+                "The timeline is a mess of caffeine crashes and missing logic. Start connecting the dots.",
+                "First impressions are rarely the whole truth. Especially at 2 AM."
+            ]
+        },
+        "26-50": {
+            "label": "Something's Off",
+            "strings": [
+                "The stories don't quite fit together yet, but the edges are starting to show.",
+                "At least one person in this room is pretending their memory is worse than it is.",
+                "There's a hole in the timeline. Find out what happened when nobody was looking.",
+                "The physical evidence doesn't match the verbal alibis. Keep shaking the tree.",
+                "Someone is acting far too calm for a person standing next to a dead judge."
+            ]
+        },
+        "51-75": {
+            "label": "You're Onto Something",
+            "strings": [
+                "The contradictions are mounting. Someone's alibi has a hole in it.",
+                "The doctor's hesitation is telling. He knows more than he's saying about the cause of death.",
+                "You've broken through the first layer of lies. Now find the motive.",
+                "The scene was staged, but maybe not by the person who died.",
+                "Small, petty actions can have fatal consequences. Keep pulling the thread."
+            ]
+        },
+        "76-90": {
+            "label": "Getting Dangerous",
+            "strings": [
+                "You're close. The truth is stranger than anyone has admitted.",
+                "Connect what Victor did, what Martha moved, and what Julian planned. The answer is in the overlap.",
+                "This wasn't a standard hit. It was a chain reaction of stupidity.",
+                "You have the pieces. Now you just need the exact sequence of events.",
+                "The organizer, the captain, the influencer. Everyone played a part, even if they didn't mean to."
+            ]
+        },
+        "91-100": {
+            "label": "You Know the Truth",
+            "strings": [
+                "You have everything. The only question is how to explain the most absurd death in hackathon history.",
+                "Julian Byte tried to steal the show. The show had other ideas.",
+                "No mastermind. Just a perfect storm of petty collegiate grievance.",
+                "The puzzle is complete. Time to deliver the verdict before they all pass out.",
+                "It's all on the board. Make your accusation."
+            ]
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "victor": {
+        "stuck_on_suspect": [
+            "Look, I'm not the only person who had a reason to be unhappy with Julian tonight. Have you talked to the organizer?",
+            "I'm telling you what I know. Maybe you should ask the woman who was filming everything.",
+            "There were a lot of people in and out of that lounge. I wasn't the only one."
+        ],
+        "too_early_accusation": [
+            "You're jumping to conclusions. Classic mistake. Even I know you need more evidence than that.",
+            "That's a bold theory. You're missing about three more pieces of the puzzle.",
+            "Come on. Even Julian deserved better detective work than that."
+        ],
+        "not_spreading": [
+            "I feel like you're fixated on me when there's a whole building of people here.",
+            "Maybe talk to Hayes. He actually investigated the scene, unlike some people.",
+            "You're asking me the same questions in different orders. Try a different suspect."
+        ],
+        "phase_stalled": [
+            "The camera near the lounge entrance. That's all I'm going to say.",
+            "Someone moved things in that room. It wasn't me.",
+            "Julian was performing for someone that night. Find out who."
+        ]
+    },
+    "martha": {
+        "stuck_on_suspect": [
+            "I literally film everything, but I didn't see the exact moment. Ask someone else.",
+            "I just want to edit my footage in peace. Find another suspect.",
+            "I'm telling you what the camera saw. Nothing more, nothing less."
+        ],
+        "too_early_accusation": [
+            "Are you serious right now? Where's your structural narrative?",
+            "You can't just jump to the climax without any rising action.",
+            "This is sloppy storytelling, detective. Find more evidence."
+        ],
+        "not_spreading": [
+            "You're ruining my B-roll hovering around me. Go bother Rose.",
+            "I'm not the only interesting subject in this room.",
+            "Go talk to the others, I need to focus on this lighting."
+        ],
+        "phase_stalled": [
+            "Someone was distinctly out of frame when Julian collapsed.",
+            "There's an audio discrepancy around midnight. That's all I'll say.",
+            "Check the VIP kit. Things don't line up there."
+        ]
+    },
+    "hayes": {
+        "stuck_on_suspect": [
+            "Kid, you're barking up the wrong tree. Look at the broader picture.",
+            "If I did it, we wouldn't be having this conversation, would we?",
+            "You're wasting my time. Go find the actual evidence."
+        ],
+        "too_early_accusation": [
+            "You bring that to a DA and they'll laugh you out of the room.",
+            "Motive without means is just a bad fantasy.",
+            "You don't have the full timeline. Back up and start over."
+        ],
+        "not_spreading": [
+            "Have you even bothered to interview the rest of the room?",
+            "A good detective talks to everyone before narrowing in.",
+            "Go lean on the event staff or the doctor. I'm busy."
+        ],
+        "phase_stalled": [
+            "That footprint near the lounge wasn't there before 11.",
+            "Someone's lying about the inhaler. It's obvious if you look.",
+            "Check the timeline again. People's alibis are overlapping."
+        ]
+    },
+    "dr_collins": {
+        "stuck_on_suspect": [
+            "I have provided you with my professional assessment. There is nothing more to add.",
+            "Your line of questioning is becoming repetitive. Please move on.",
+            "Medically speaking, I have given you all the relevant facts."
+        ],
+        "too_early_accusation": [
+            "A diagnosis without proper testing is malpractice. You are doing the equivalent.",
+            "Your hypothesis lacks empirical support.",
+            "I suggest you gather more data before making such severe allegations."
+        ],
+        "not_spreading": [
+            "It would be prudent to examine the other individuals present.",
+            "A comprehensive investigation requires a larger sample size of interviews.",
+            "I am not the only variable in this environment."
+        ],
+        "phase_stalled": [
+            "The physiological response indicates a specific timeline. Re-examine it.",
+            "Trace amounts of caffeine can interact with certain conditions.",
+            "Airway obstructions do not typically manifest in that precise manner."
+        ]
+    },
+    "rose": {
+        "stuck_on_suspect": [
+            "I have seventy-five other problems tonight, and this interview is rapidly becoming number one.",
+            "I swear, if you ask me one more question, I'm taking away your credential.",
+            "I didn't have time to sleep last week, let alone plot anything. Ask someone else."
+        ],
+        "too_early_accusation": [
+            "Are you joking? I'm the one trying to keep this disaster together.",
+            "If you're going to make accusations, at least have the courtesy to have proof.",
+            "That's completely absurd. Go do your actual job."
+        ],
+        "not_spreading": [
+            "Have you bothered the catering staff yet? Or the doctor? Go bother them.",
+            "Stop following me around, I have a venue to manage.",
+            "There are five other people who are much more suspicious than me."
+        ],
+        "phase_stalled": [
+            "Whoever messed with my VIP kits is going to pay for it.",
+            "The logistics schedule was altered after 10 PM. Check the logs.",
+            "Julian's green room requirements were very specific, but things were moved."
+        ]
+    }
+}

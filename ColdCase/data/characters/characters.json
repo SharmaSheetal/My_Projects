@@ -1,0 +1,105 @@
+{
+    "characters": [
+        {
+            "id": "victor",
+            "name": "Victor",
+            "full_name": "Victor Chen",
+            "role": "Finalist Team Captain",
+            "knowledge_cutoff": "2024-01-15T00:05:00",
+            "stress": 0.3,
+            "will_reveal_by_default": false,
+            "one_line_description": "A competitive startup-bro finalist who secretly swapped Julian's drink as petty revenge and calls it competitive correction.",
+            "unique_fact": "He swapped Julian's cold brew with an ultra-caffeinated sponsor drink and has a text message proving it.",
+            "lies_about": [
+                "entering the judges lounge",
+                "touching Julian's drink"
+            ],
+            "does_not_know": [
+                "martha moved the inhaler",
+                "julian planned a fake collapse",
+                "the sticky note was written by julian",
+                "dr collins warned julian at 12:20 am",
+                "rose swapped the vip kit"
+            ]
+        },
+        {
+            "id": "martha",
+            "name": "Martha",
+            "full_name": "Martha Reyes",
+            "role": "Volunteer and Social Media Lead",
+            "knowledge_cutoff": "2024-01-14T23:18:00",
+            "stress": 0.3,
+            "will_reveal_by_default": false,
+            "one_line_description": "A chaotic social media volunteer who rearranged the entire lounge for her reel and moved Julian's inhaler without knowing what it was.",
+            "unique_fact": "She moved Julian's inhaler and her reel footage is the only visual record of the lounge before the collapse.",
+            "lies_about": [
+                "touching anything in the lounge",
+                "the completeness of what she witnessed"
+            ],
+            "does_not_know": [
+                "victor swapped the drink",
+                "julian planned a fake collapse",
+                "the drink contained ultra high caffeine",
+                "dr collins warned julian at 12:20 am"
+            ]
+        },
+        {
+            "id": "hayes",
+            "name": "Detective Hayes",
+            "full_name": "Officer Raymond Hayes",
+            "role": "Campus Security Officer",
+            "knowledge_cutoff": "2024-01-15T02:07:00",
+            "stress": 0.2,
+            "will_reveal_by_default": false,
+            "one_line_description": "A tired campus security officer who speaks like he is investigating a cartel assassination and already suspects this was not a clean murder.",
+            "unique_fact": "He has surveyed the full scene and suspects multiple independent actions converged accidentally, but he is not telling anyone yet.",
+            "lies_about": [],
+            "does_not_know": [
+                "the specific medical chain of death",
+                "the full keycap detail before the player surfaces it"
+            ]
+        },
+        {
+            "id": "dr_collins",
+            "name": "Dr. Collins",
+            "full_name": "Dr. Samuel Collins",
+            "role": "Medical Judge and On-Call Doctor",
+            "knowledge_cutoff": "2024-01-15T02:07:00",
+            "stress": 0.2,
+            "will_reveal_by_default": false,
+            "one_line_description": "A calm clinical doctor who knows the cause of death was not simple poisoning but will only confirm the full absurd chain when the player brings him physical evidence.",
+            "unique_fact": "He knows airway obstruction was a critical factor but will not name the keycap specifically until the trophy evidence is submitted.",
+            "lies_about": [],
+            "does_not_know": [
+                "victor swapped the drink deliberately",
+                "martha moved the inhaler",
+                "rose swapped the vip kit"
+            ],
+            "evidence_required_to_reveal_full_truth": [
+                "evidence_energy_drink_can",
+                "evidence_keycap_trophy"
+            ]
+        },
+        {
+            "id": "rose",
+            "name": "Rose",
+            "full_name": "Rose Nakamura",
+            "role": "Lead Hackathon Organizer",
+            "knowledge_cutoff": "2024-01-14T22:20:00",
+            "stress": 0.3,
+            "will_reveal_by_default": false,
+            "one_line_description": "An exhausted pragmatic organizer who downgraded Julian's VIP kit out of spite and knew he was planning something dramatic that night.",
+            "unique_fact": "She swapped the VIP kit and knew Julian planned a dramatic stunt, though not the fake collapse specifically.",
+            "lies_about": [
+                "only handling logistics",
+                "never touching julian's personal setup"
+            ],
+            "does_not_know": [
+                "victor swapped the drink",
+                "martha moved the inhaler specifically",
+                "the keycap caused airway obstruction",
+                "julian was planning a fake collapse specifically"
+            ]
+        }
+    ]
+}

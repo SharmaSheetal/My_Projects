@@ -204,6 +204,7 @@ __pycache__
 *.jpg
 #ignore the .json files
 *.json
+!ColdCase/**/*.json
 gradle/
 Image gallery/
 
